@@ -76,13 +76,13 @@ button.outlined,
     width: 100%;
     margin: 0 auto;
 }
-.content header{
+.content header {
     width: 80%;
+    margin: 3.5rem auto;
 }
-
 .content header img{
     width: 16.7rem;
-    margin: 3.5rem auto;
+    
 }
 .sr-only{
     position: absolute;
